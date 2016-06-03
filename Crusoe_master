@@ -19,7 +19,7 @@
             <idno type="CONTENTSET">ECLL</idno>
             <idno type="IMAGESETID">0653600100</idno>
             <availability>
-               <p>This text has been adapted and annotated based on the text created by the Oxford Text Archive and the Text Creation Parntership. This keyboarded and encoded edition of the
+               <p>This text has been adapted and annotated based on the text created by the Oxford Text Archive and the Text Creation Partnership. This keyboarded and encoded edition of the
 	       work described above is co-owned by the institutions
 	       providing financial support to the Early English Books
 	       Online Text Creation Partnership. This Phase I text is
@@ -80,13 +80,11 @@
    <text xml:lang="eng">
       <front>
          <div type="illustration">
-            <pb facs="tcp:0653600100:1"/>
             <p>
                <figure/>
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:0653600100:2"/>
             <p>THE LIFE AND STRANGE SURPRIZING ADVENTURES OF ROBINSON CRUSOE, Of <hi>YORK,</hi> MARINER: Who lived Eight and Twenty Years, all alone in an un-inhabited Island on the Coast of AMERICA, near the Mouth of the Great River of OROONOQUE; Having been cast on Shore by Shipwreck, where<g ref="char:EOLhyphen"/>in all the Men perished but himself.</p>
             <p>WITH An Account how he was at last as strangely deli<g ref="char:EOLhyphen"/>ver'd by PYRATES.</p>
             <p>Written by Himself.</p>
@@ -95,11 +93,11 @@
          <div type="preface">
             <pb facs="tcp:0653600100:3"/>
             <head>THE PREFACE.</head>
-            <p>IF ever the Story of any private Man's Adventures in the World were worth making Pvblick, and were acceptable when Publish'd, the Editor of this Acccount thinks this will be so.</p>
+            <p>IF ever the Story of any private Man's Adventures in the World were worth making Publick, and were acceptable when Publish'd, the Editor of this Account thinks this will be so.</p>
             <p>The Wonders of this Man's Life exceed all that (he thinks) is to be found extant; the Life of one Man being scarce capable of a greater Variety.</p>
             <p>The Story is told with Mode<g ref="char:EOLhyphen"/>sty, with Seriousness, and with a religious Application of Events to the Uses to which wise Men
 <pb facs="tcp:0653600100:4"/>
-always apyly them (<hi>viz.</hi>) to the Instruction of others by this Exam<g ref="char:EOLhyphen"/>ple, and to justify and honour the Wisdom of Providence in all the Variety of our Circumstances, let them happen how they will.</p>
+always apyly them (<hi>viz.</hi>) <note type="gloss"> An abbreviation for the Latin videlicet, meaning here namely. </div> to the Instruction of others by this Exam<g ref="char:EOLhyphen"/>ple, and to justify and honour the Wisdom of Providence in all the Variety of our Circumstances, let them happen how they will.</p>
             <p>The Editor believes the thing to be a just History of Fact; nei<g ref="char:EOLhyphen"/>ther is there any Appearance of Fiction in it: And however thinks, because all such things are dispatch'd, that the Improvement of it, as well to the Diversion, as to the Instruction of the Reader, will be the same; and as such, he thinks, without farther Compli<g ref="char:EOLhyphen"/>ment to the World, he does them a great Service in the Publica<g ref="char:EOLhyphen"/>tion.</p>
          </div>
       </front>
@@ -109,7 +107,7 @@ always apyly them (<hi>viz.</hi>) to the Instruction of others by this Exam<g re
             <head>THE LIFE AND ADVENTURES OF ROBINSON CRUSOE, <hi>&amp;c.</hi>
             </head>
             <p>
-               <seg rend="decorInit">I</seg> Was born in the Year 1632, in the City of <hi>York,</hi> of a good Family, tho' not of that Country, my Father be<g ref="char:EOLhyphen"/>ing a Foreigner of <hi>Bremen,</hi> who settled first at <hi>Hull:</hi> He got a good Estate by Merchandise, and leaving off his Trade, lived afterward at <hi>York,</hi> from whence he had married my Mother, whose Relations were named <hi>Robinson,</hi> a very good Family in that Country, and from whom I was called <hi>Robinson Kreutznaer;</hi> but by the usual Corruption of Words in <hi>England,</hi> we are now called, nay we call our selves, and write our Name <hi>Crusoe,</hi> and so my Companions always call'd me.</p>
+               <seg rend="decorInit">I</seg> Was born in the Year 1632, in the City of <hi>York,</hi> of a good Family, tho' not of that Country, my Father be<g ref="char:EOLhyphen"/>ing a Foreigner of <hi>Bremen,</hi><note type="gloss"> A city in Germany. </note> who settled first at <hi>Hull:</hi> He got a good Estate by Merchandise, and leaving off his Trade, lived afterward at <hi>York,</hi> from whence he had married my Mother, whose Relations were named <hi>Robinson,</hi> a very good Family in that Country, and from whom I was called <hi>Robinson Kreutznaer;</hi> but by the usual Corruption of Words in <hi>England,</hi> we are now called, nay we call our selves, and write our Name <hi>Crusoe,</hi> and so my Companions always call'd me.</p>
             <p>
                <pb n="2" facs="tcp:0653600100:6"/>I had two elder Brothers, one of which was Lieutenant Collonel to an <hi>English</hi> Regiment of Foot in <hi>Flanders,</hi> formerly commanded by the famous Coll. <hi>Lockhart,</hi> and was killed at the Battle near <hi>Dunkirk</hi> inagast the <hi>Spaniards:</hi> What became of my second Brother I never knew any more than my Father or Mother did know what was become of me.</p>
             <p>Being the third Son of the Family, and not bred to any Trade, my Head began to be fill'd very early with rambling Thoughts: My Father, who was very ancient, had given me a competent Share of Learning, as far as House-Education, and a Country Free-School generally goes, and design'd me for the Law; but I would be satisfied with no<g ref="char:EOLhyphen"/>thing but going to Sea, and my Inclination to this led me so strongly against the Will, nay the Com<g ref="char:EOLhyphen"/>mands of my Father, and against all the Entreaties and Perswasions of my Mother and other Friends, that there seem'd to be something fatal in that Pro<g ref="char:EOLhyphen"/>pension of Nature tending directly to the Life of Misery which was to befal me.</p>
